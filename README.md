@@ -1,7 +1,7 @@
 Top/Recommended programming books:
 =================================
 
-Document template for listing and describing good programming books for <a href="https://www.facebook.com/groups/Javagroup123/">Facebook Group.</a>.
+Document template for listing and describing good programming books for <a href="https://www.facebook.com/groups/Javagroup123/">Facebook Group.</a>
 Please neither request nor provide links or materials which are copyrighted.
 
 
@@ -56,7 +56,9 @@ Please neither request nor provide links or materials which are copyrighted.
   * <a href="http://www.amazon.in/Wicked-Cool-Java-Open-Source-Libraries/dp/1593270615">Wicked Cool Java: Code Bits, Open-Source Libraries, and Project Ideas</a>
   
 
-
+### How can you contribute ?
+- [Fork](https://help.github.com/articles/fork-a-repo)
+- [Send a PR](https://help.github.com/articles/using-pull-requests)
  
-  
-  
+
+Thanks !
