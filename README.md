@@ -52,7 +52,7 @@ Please neither request nor provide links or materials which are copyrighted.
   * <a href="http://www.amazon.in/Java-2D-Graphics-Series/dp/1565924843">Java 2D Graphics (Java Series)</a>
   * <a href="http://www.amazon.com/Java-3D-Programming-Daniel-Selman/dp/1930110359">Java 3D Programming</a>
   * <a href="http://docs.oracle.com/javase/specs/jls/se7/html/index.html">JVM and Java Language Specification</a>
-  * <a href="http://www.amazon.in/Struts-2-Action-Don-Brown/dp/193398807X">JavaFX 2.0: Introduction by Example</a>
+  * <a href="http://www.amazon.com/JavaFX-2-0-Introduction-Carl-Dea/dp/1430242574">JavaFX 2.0: Introduction by Example</a>
   * <a href="http://www.amazon.in/Wicked-Cool-Java-Open-Source-Libraries/dp/1593270615">Wicked Cool Java: Code Bits, Open-Source Libraries, and Project Ideas</a>
   
 
